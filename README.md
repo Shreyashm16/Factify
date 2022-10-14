@@ -1,4 +1,4 @@
-# Factify
+# <a href="https://www.researchgate.net/profile/Parth-Patwa/publication/356342935_FACTIFY_A_Multi-Modal_Fact_Verification_Dataset/links/61961c0f3068c54fa5fa6c37/FACTIFY-A-Multi-Modal-Fact-Verification-Dataset.pdf">Factify</a>
 
 
 <p>Factify is a Multi-Modal Fact Verification dataset released as part of the <a href="https://aiisc.ai/defactify/">De-Factify workshop</a> in AAAI-21</p>
